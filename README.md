@@ -76,13 +76,13 @@ npm run start
 
 ## Screenshots of the working website
 
-> Please add screenshots of your application here.
-
 - **Dashboard / Kanban Board**:
-  `![Dashboard Screenshot](./public/screenshot-dashboard.png)`
+
+  ![Dashboard Screenshot](./public/screenshot-dashboard.png)
 
 - **Task Details**:
-  `![Task Details Screenshot](./public/screenshot-task.png)`
+
+  ![Task Details Screenshot](./public/screenshot-task.png)
 
 ## Known Limitations
 
