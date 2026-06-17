@@ -7,5 +7,26 @@
 }
 
 body {
-  background-color: bisque;
+  background-color: #0a0a0a;
+  color: #ffffff;
+}
+
+::-webkit-scrollbar { 
+  width: 6px; 
+  height: 6px; 
+}
+::-webkit-scrollbar-track { 
+  background: #111111; 
+}
+::-webkit-scrollbar-thumb { 
+  background: #333333; 
+  border-radius: 3px; 
+}
+::-webkit-scrollbar-thumb:hover { 
+  background: #00FF87; 
+}
+
+::selection { 
+  background: #00FF87; 
+  color: #000000; 
 }
